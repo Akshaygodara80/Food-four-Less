@@ -8,6 +8,7 @@ const Ordernow = () => {
   return (
     <>
       <div className=" font-inter max-w-[1280px] w-full mx-auto   pt-20 bg-white pb-16">
+        <h2>Akshay Singh</h2>
         <h1 className=" text-center text-[48px] font-bold leading-normal text-[#29282E] ">
           Our <span className=" text-[#FDB800]">Now</span>
         </h1>
